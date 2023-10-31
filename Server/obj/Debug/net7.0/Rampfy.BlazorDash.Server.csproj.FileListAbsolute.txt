@@ -1,0 +1,8 @@
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Server/obj/Debug/net7.0/Rampfy.BlazorDash.Server.csproj.AssemblyReference.cache
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Server/obj/Debug/net7.0/Rampfy.BlazorDash.Server.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Server/obj/Debug/net7.0/Rampfy.BlazorDash.Server.AssemblyInfoInputs.cache
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Server/obj/Debug/net7.0/Rampfy.BlazorDash.Server.AssemblyInfo.cs
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Server/obj/Debug/net7.0/Rampfy.BlazorDash.Server.csproj.CoreCompileInputs.cache
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Server/obj/Debug/net7.0/Rampfy.BlazorDash.Server.MvcApplicationPartsAssemblyInfo.cache
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Server/obj/Debug/net7.0/Rampfy.BlazorDash.Server.RazorAssemblyInfo.cache
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Server/obj/Debug/net7.0/Rampfy.BlazorDash.Server.RazorAssemblyInfo.cs

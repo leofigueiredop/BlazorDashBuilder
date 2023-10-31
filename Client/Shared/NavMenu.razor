@@ -1,0 +1,38 @@
+@using Syncfusion.Blazor.Charts
+@using Syncfusion.Blazor.Layouts
+@using Syncfusion.Blazor.Navigations
+@using Syncfusion.Blazor.ProgressBar
+@using Syncfusion.Blazor.Cards
+
+<!-- sidebar element declaration -->
+        <SfSidebar ID="dockSidebar" DockSize="60px" EnableDock="true" Type="SidebarType.Auto" CloseOnDocumentClick="true" Target="#target">
+            <ChildContent>
+                <div class="content-area">
+                    <div class="dock">
+                        <ul>
+                            <li class="sidebar-item filterHover"><span class="e-icons home"></span></li>
+                            <li class="sidebar-item ">
+                                <span class="e-icons filter"></span>
+                            </li>
+                            <li class="sidebar-item">
+                                <span class="e-icons analyticsChart"></span>
+                            </li>
+                            <li class="sidebar-item">
+                                <span class="e-icons analytics"></span>
+                            </li>
+                            <li class="sidebar-item"><span class="e-icons settings"></span></li>
+                        </ul>
+                    </div>
+                </div>
+            </ChildContent>
+        </SfSidebar>
+@code {
+    private bool collapseNavMenu = true;
+
+    private string? NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+
+    private void ToggleNavMenu()
+    {
+        collapseNavMenu = !collapseNavMenu;
+    }
+}

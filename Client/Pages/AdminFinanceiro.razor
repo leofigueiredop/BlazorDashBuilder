@@ -1,0 +1,22 @@
+@page "/admin-financeiro"
+@inject IJSRuntime JSRuntime
+@inject NavigationManager NavigationManager
+@using Syncfusion.Blazor.Charts
+@using Syncfusion.Blazor.Layouts
+@using Syncfusion.Blazor.Navigations
+@using Syncfusion.Blazor.Cards
+
+<PageTitle>AdminFinanceiro</PageTitle>
+<RadzenRow>
+    <RadzenColumn Size="12">
+        <RadzenText Text="AdminFinanceiro" TextStyle="TextStyle.H3" TagName="TagName.H1" />
+    </RadzenColumn>
+</RadzenRow>
+<SfDashboardLayout AllowDragging="false" Columns="8" ID="dash2">
+
+<DashboardLayoutPanels></DashboardLayoutPanels>
+
+</SfDashboardLayout>
+@code {
+
+}

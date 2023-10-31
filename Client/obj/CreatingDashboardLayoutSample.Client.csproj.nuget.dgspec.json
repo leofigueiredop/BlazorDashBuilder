@@ -1,0 +1,164 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Client/CreatingDashboardLayoutSample.Client.csproj": {}
+  },
+  "projects": {
+    "/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Client/CreatingDashboardLayoutSample.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Client/CreatingDashboardLayoutSample.Client.csproj",
+        "projectName": "CreatingDashboardLayoutSample.Client",
+        "projectPath": "/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Client/CreatingDashboardLayoutSample.Client.csproj",
+        "packagesPath": "/Users/leonardopickler/.nuget/packages/",
+        "outputPath": "/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Client/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/leonardopickler/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/CreatingDashboardLayoutSample.Shared.csproj": {
+                "projectPath": "/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/CreatingDashboardLayoutSample.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Components.WebAssembly": {
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Microsoft.AspNetCore.Components.WebAssembly.DevServer": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.12, )"
+            },
+            "Syncfusion.Blazor.Cards": {
+              "target": "Package",
+              "version": "[23.1.42, )"
+            },
+            "Syncfusion.Blazor.Charts": {
+              "target": "Package",
+              "version": "[23.1.42, )"
+            },
+            "Syncfusion.Blazor.Grid": {
+              "target": "Package",
+              "version": "[23.1.42, )"
+            },
+            "Syncfusion.Blazor.Layouts": {
+              "target": "Package",
+              "version": "[23.1.42, )"
+            },
+            "Syncfusion.Blazor.ProgressBar": {
+              "target": "Package",
+              "version": "[23.1.42, )"
+            },
+            "Syncfusion.Blazor.Themes": {
+              "target": "Package",
+              "version": "[23.1.42, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
+              "version": "[7.0.12, 7.0.12]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "browser-wasm": {
+          "#import": []
+        }
+      }
+    },
+    "/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/CreatingDashboardLayoutSample.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/CreatingDashboardLayoutSample.Shared.csproj",
+        "projectName": "CreatingDashboardLayoutSample.Shared",
+        "projectPath": "/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/CreatingDashboardLayoutSample.Shared.csproj",
+        "packagesPath": "/Users/leonardopickler/.nuget/packages/",
+        "outputPath": "/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/leonardopickler/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

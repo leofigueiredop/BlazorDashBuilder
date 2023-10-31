@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{5A3E256E-56F7-43AA-892B-2DA859C38938}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Client/Rampfy.BlazorDash.Client.csproj">
+    <Files>
+      <File FileName="Client/Rampfy.BlazorDash.Client.csproj" Line="29" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Rampfy.BlazorDash" expanded="True" selected="True">
+            <Node name="Rampfy.BlazorDash.Client" expanded="True">
+              <Node name="Pages" expanded="True" />
+            </Node>
+            <Node name="Rampfy.BlazorDash.Server" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+                <Node name="PackageDependencies" expanded="True" />
+                <Node name="ProjectDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Rampfy.BlazorDash.Shared" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Rampfy.BlazorDash.Client PreferredExecutionTarget="/Applications/Wavebox.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

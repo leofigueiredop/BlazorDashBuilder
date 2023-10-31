@@ -1,0 +1,12 @@
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/bin/Debug/net7.0/CreatingDashboardLayoutSample.Shared.deps.json
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/bin/Debug/net7.0/CreatingDashboardLayoutSample.Shared.dll
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/bin/Debug/net7.0/CreatingDashboardLayoutSample.Shared.pdb
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/Debug/net7.0/CreatingDashboardLayoutSample.Shared.csproj.AssemblyReference.cache
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/Debug/net7.0/CreatingDashboardLayoutSample.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/Debug/net7.0/CreatingDashboardLayoutSample.Shared.AssemblyInfoInputs.cache
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/Debug/net7.0/CreatingDashboardLayoutSample.Shared.AssemblyInfo.cs
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/Debug/net7.0/CreatingDashboardLayoutSample.Shared.csproj.CoreCompileInputs.cache
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/Debug/net7.0/CreatingDashboardLayoutSample.Shared.dll
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/Debug/net7.0/refint/CreatingDashboardLayoutSample.Shared.dll
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/Debug/net7.0/CreatingDashboardLayoutSample.Shared.pdb
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/Debug/net7.0/ref/CreatingDashboardLayoutSample.Shared.dll

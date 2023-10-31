@@ -1,0 +1,12 @@
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/bin/Debug/net7.0/Rampfy.BlazorDash.Shared.deps.json
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/bin/Debug/net7.0/Rampfy.BlazorDash.Shared.dll
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/bin/Debug/net7.0/Rampfy.BlazorDash.Shared.pdb
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/Debug/net7.0/Rampfy.BlazorDash.Shared.csproj.AssemblyReference.cache
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/Debug/net7.0/Rampfy.BlazorDash.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/Debug/net7.0/Rampfy.BlazorDash.Shared.AssemblyInfoInputs.cache
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/Debug/net7.0/Rampfy.BlazorDash.Shared.AssemblyInfo.cs
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/Debug/net7.0/Rampfy.BlazorDash.Shared.csproj.CoreCompileInputs.cache
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/Debug/net7.0/Rampfy.BlazorDash.Shared.dll
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/Debug/net7.0/refint/Rampfy.BlazorDash.Shared.dll
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/Debug/net7.0/Rampfy.BlazorDash.Shared.pdb
+/Users/leonardopickler/Downloads/create-a-dashboard-layout-component-in-a-blazor-webassembly-app-master/Shared/obj/Debug/net7.0/ref/Rampfy.BlazorDash.Shared.dll
