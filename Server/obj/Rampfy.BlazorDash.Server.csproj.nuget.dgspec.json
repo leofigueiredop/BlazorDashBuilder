@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Server/Rampfy.BlazorDash.Server.csproj": {}
+    "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Server/Rampfy.BlazorDash.Server.csproj": {}
   },
   "projects": {
-    "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Client/Rampfy.BlazorDash.Client.csproj": {
+    "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client/Rampfy.BlazorDash.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Client/Rampfy.BlazorDash.Client.csproj",
+        "projectUniqueName": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client/Rampfy.BlazorDash.Client.csproj",
         "projectName": "Rampfy.BlazorDash.Client",
-        "projectPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Client/Rampfy.BlazorDash.Client.csproj",
+        "projectPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client/Rampfy.BlazorDash.Client.csproj",
         "packagesPath": "/Users/leonardopickler/.nuget/packages/",
-        "outputPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Client/obj/",
+        "outputPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/leonardopickler/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj": {
-                "projectPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj"
+              "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj": {
+                "projectPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj"
               }
             }
           }
@@ -107,14 +107,14 @@
         }
       }
     },
-    "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Server/Rampfy.BlazorDash.Server.csproj": {
+    "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Server/Rampfy.BlazorDash.Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Server/Rampfy.BlazorDash.Server.csproj",
+        "projectUniqueName": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Server/Rampfy.BlazorDash.Server.csproj",
         "projectName": "Rampfy.BlazorDash.Server",
-        "projectPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Server/Rampfy.BlazorDash.Server.csproj",
+        "projectPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Server/Rampfy.BlazorDash.Server.csproj",
         "packagesPath": "/Users/leonardopickler/.nuget/packages/",
-        "outputPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Server/obj/",
+        "outputPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Server/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/leonardopickler/.nuget/NuGet/NuGet.Config"
@@ -130,11 +130,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Client/Rampfy.BlazorDash.Client.csproj": {
-                "projectPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Client/Rampfy.BlazorDash.Client.csproj"
+              "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client/Rampfy.BlazorDash.Client.csproj": {
+                "projectPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client/Rampfy.BlazorDash.Client.csproj"
               },
-              "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj": {
-                "projectPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj"
+              "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj": {
+                "projectPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj"
               }
             }
           }
@@ -177,14 +177,14 @@
         }
       }
     },
-    "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj": {
+    "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj",
+        "projectUniqueName": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj",
         "projectName": "Rampfy.BlazorDash.Shared",
-        "projectPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj",
+        "projectPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj",
         "packagesPath": "/Users/leonardopickler/.nuget/packages/",
-        "outputPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Shared/obj/",
+        "outputPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/leonardopickler/.nuget/NuGet/NuGet.Config"

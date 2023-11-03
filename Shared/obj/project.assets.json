@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj",
+      "projectUniqueName": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj",
       "projectName": "Rampfy.BlazorDash.Shared",
-      "projectPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj",
+      "projectPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj",
       "packagesPath": "/Users/leonardopickler/.nuget/packages/",
-      "outputPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Shared/obj/",
+      "outputPath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Shared/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/leonardopickler/.nuget/NuGet/NuGet.Config"

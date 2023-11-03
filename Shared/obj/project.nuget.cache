@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dl2INZfJV22fcWrQheEKgvRy7KllDsBKNU96NnQHwtaXWN/NSYlmIXE175YOt+dI2JigFhzAQ7fBt/rnKLeKSg==",
+  "dgSpecHash": "vov7ktsQEOD7YsXbElv1pmyDHB0sYjt8orMVSr/7AacM55HGRhDw5qx0UB49LMI/fJapcxSG+UV+1Bm4gEqMNQ==",
   "success": true,
-  "projectFilePath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj",
+  "projectFilePath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Shared/Rampfy.BlazorDash.Shared.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

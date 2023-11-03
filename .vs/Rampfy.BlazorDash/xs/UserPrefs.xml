@@ -1,12 +1,15 @@
-﻿<Properties StartupConfiguration="{5A3E256E-56F7-43AA-892B-2DA859C38938}|https">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Client/Rampfy.BlazorDash.Client.csproj">
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{6F137BDC-A0CF-4F93-8D25-89E1A617DA88}|https">
+  <MonoDevelop.Ide.ItemProperties.Rampfy.BlazorDash.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shared/Models/Dashboard.cs">
     <Files>
       <File FileName="Client/Rampfy.BlazorDash.Client.csproj" Line="29" Column="1" />
+      <File FileName="Shared/Enums/ComponentEnums.cs" Line="1" Column="1" />
+      <File FileName="Shared/Models/Dashboard.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Rampfy.BlazorDash" expanded="True" selected="True">
+          <Node name="Rampfy.BlazorDash" expanded="True">
             <Node name="Rampfy.BlazorDash.Client" expanded="True">
               <Node name="Pages" expanded="True" />
             </Node>
@@ -17,16 +20,19 @@
                 <Node name="ProjectDependencies" expanded="True" />
               </Node>
             </Node>
-            <Node name="Rampfy.BlazorDash.Shared" expanded="True" />
+            <Node name="Rampfy.BlazorDash.Shared" expanded="True">
+              <Node name="Enums" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Rampfy.BlazorDash.Client PreferredExecutionTarget="/Applications/Wavebox.app" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Rampfy.BlazorDash.Client PreferredExecutionTarget="/Applications/Wavebox.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

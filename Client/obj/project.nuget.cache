@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kWW+400ti1YZv6zEeXZ+h1EDkX/BVyHhu5wclNxWRUpPqLdW+ccSLaaAoQsLIukcHYyn5ALrPqfBCAhCvdOP/g==",
+  "dgSpecHash": "8rk4Y9xPbKhksgIwLeujUNy62JvA6QR+7gMlmKPWddLdlPJOHqbgsHBSLgbw4HJQ/uVwHmbWurbN0CDhMMzyuA==",
   "success": true,
-  "projectFilePath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Client/Rampfy.BlazorDash.Client.csproj",
+  "projectFilePath": "/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client/Rampfy.BlazorDash.Client.csproj",
   "expectedPackageFiles": [
     "/Users/leonardopickler/.nuget/packages/microsoft.aspnetcore.authorization/7.0.12/microsoft.aspnetcore.authorization.7.0.12.nupkg.sha512",
     "/Users/leonardopickler/.nuget/packages/microsoft.aspnetcore.components/7.0.12/microsoft.aspnetcore.components.7.0.12.nupkg.sha512",
