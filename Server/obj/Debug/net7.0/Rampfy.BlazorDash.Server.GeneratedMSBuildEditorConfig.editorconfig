@@ -9,13 +9,13 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Rampfy.BlazorDash.Server
 build_property.RootNamespace = Rampfy.BlazorDash.Server
-build_property.ProjectDir = /Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Server/
+build_property.ProjectDir = /Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Server/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Server
+build_property.MSBuildProjectDirectory = /Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Server
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Server/Pages/Error.cshtml]
+[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Server/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 

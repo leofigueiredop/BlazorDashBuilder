@@ -1,5 +1,3 @@
-using System;
-
 namespace Rampfy.BlazorDash.Shared.Enums
 {
 
@@ -9,7 +7,7 @@ namespace Rampfy.BlazorDash.Shared.Enums
         posicao_atual = 1,
         evolucao_mensal = 2,
         evolucao_diaria = 3,
-        totalizador = 4
+        card = 4
     }
 
     // Enum para o nível de visão dos dados
@@ -17,7 +15,8 @@ namespace Rampfy.BlazorDash.Shared.Enums
     {
         unidade = 1,
         divisao = 2,
-        pessoa = 3
+        pessoa = 3,
+        kpi = 4
     }
     public enum TipoDado
     {
@@ -38,13 +37,27 @@ namespace Rampfy.BlazorDash.Shared.Enums
         tableView = 7,
         treeView = 8
     }
+    public enum Comparacao
+    {
+        ind_cam_executado = 1,
+        ind_cam_projetado = 2,
+        ind_cam_meta = 3,
+        ind_cam_percentual_atingido = 4,
+        ind_cam_percentual_projetado = 5
+    }
 
 
-public enum Agregacao
+    public enum Agregacao
     {
         SUM = 1,
         AVG = 2,
         MIN = 3,
         MAX = 4
+    }
+
+     public enum AxysType
+    {
+        X = 1,
+        Y = 2
     }
 }

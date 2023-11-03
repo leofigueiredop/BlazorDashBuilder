@@ -1,0 +1,58 @@
+@page "/Dashboard"
+@inject IJSRuntime JSRuntime
+@inject NavigationManager NavigationManager
+@using Syncfusion.Blazor.Charts
+@using Syncfusion.Blazor.Layouts
+@using Syncfusion.Blazor.Navigations
+@using Syncfusion.Blazor.Cards
+@using BlazorDash.Shared.Models
+@using BlazorDash.Shared.Enums
+
+@code {
+    SfDashboardLayout? dashboardObject;
+    public Dashboard? Dashboard = new Dashboard();
+    double[] CellSpacing = new double[] { 10, 10 };
+    int Columns = 6;
+    double Ratio = 80 / 100;
+    private Theme Theme { get; set; }
+    public string[] ShapePropertyPath = { "continent" };
+    public string ShapeDataPath = "Continent";
+    int lastY = 0;
+    int lastX = 0;
+
+}
+
+
+<div class="sidebar-content">
+    <div class="dashboardParent">
+        <SfDashboardLayout @ref="dashboardObject" CellSpacing="@CellSpacing" Columns="@Columns" CellAspectRatio="@Ratio"
+            AllowDragging="false">
+            <DashboardLayoutPanels>
+                @foreach (var componente in Dashboard.Componentes)
+                {
+                    switch (componente.formatoExibicao_com)
+                    {
+                        case FormatoExibicao.card:
+
+                            <DashboardLayoutPanel SizeX="2" SizeY="1" Row="@lastX" Column="@lastX">
+                                <HeaderTemplate>
+                                    <div>@componente.Titulo_com</div>
+                                </HeaderTemplate>
+                                <ContentTemplate>
+                                   
+                                </ContentTemplate>
+                            </DashboardLayoutPanel>
+
+                            break;
+                        case FormatoExibicao.posicao_atual:
+                            break;
+                        case FormatoExibicao.evolucao_mensal:
+                        case FormatoExibicao.evolucao_diaria:
+                            break;
+                    }
+
+                }
+            </DashboardLayoutPanels>
+        </SfDashboardLayout>
+    </div>
+</div>

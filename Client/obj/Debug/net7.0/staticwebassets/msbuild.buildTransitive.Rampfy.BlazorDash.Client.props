@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Rampfy.BlazorDash.Client.props" />
+</Project>

@@ -1,4 +1,3 @@
-using System.Threading.Tasks;
 // Add the following namespace to use the Hub class inheritance.
 using Microsoft.AspNetCore.SignalR;
 

@@ -149,9 +149,21 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "C1.EntityFrameworkCore.CSV": {
+              "target": "Package",
+              "version": "[1.0.20232.172, )"
+            },
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
               "version": "[7.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.13, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[7.0.10, )"
             }
           },
           "imports": [

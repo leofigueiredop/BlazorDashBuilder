@@ -9,37 +9,49 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = Rampfy.BlazorDash.Client
 build_property.RootNamespace = Rampfy.BlazorDash.Client
-build_property.ProjectDir = /Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Client/
+build_property.ProjectDir = /Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client/
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Client
+build_property.MSBuildProjectDirectory = /Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Client/App.razor]
+[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Client/Pages/AdminFinanceiro.razor]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWRtaW5GaW5hbmNlaXJvLnJhem9y
+[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client/Pages/DashboardPanel.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRGFzaGJvYXJkUGFuZWwucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Client/Pages/Index.razor]
+[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Client/Shared/SurveyPrompt.razor]
+[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client/Shared/Components/bar.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvYmFyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client/Shared/Components/cards.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvY2FyZHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client/Shared/Components/line.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0NvbXBvbmVudHMvbGluZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Client/_Imports.razor]
+[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Client/Shared/MainLayout.razor]
+[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-qbfggd1fsn
 
-[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy.BlazorDash/Client/Shared/NavMenu.razor]
+[/Users/leonardopickler/Projects/Rampfy/SyncR/Rampfy-Dashboard/Rampfy.BlazorDash/Client/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-3ca1t4hr1g

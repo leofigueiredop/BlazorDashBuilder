@@ -1,0 +1,43 @@
+@using Syncfusion.Blazor.Charts
+@using Syncfusion.Blazor.Layouts
+@using Syncfusion.Blazor.Navigations
+@using Syncfusion.Blazor.Cards
+@using Rampfy.BlazorDash.Shared.Models
+
+@code {
+    [Parameter]
+    public Componente Componente;
+    private Theme Theme { get; set; }
+
+
+}
+<SfChart Theme="@Theme" Height="100%" Width="100%">
+    <ChartMargin Top="30"></ChartMargin>
+    <ChartArea>
+        <ChartAreaBorder Width="0"></ChartAreaBorder>
+    </ChartArea>
+    <ChartPrimaryXAxis ValueType="Syncfusion.Blazor.Charts.ValueType.DateTime" LabelFormat="MMM"
+        IntervalType="IntervalType.Months" EdgeLabelPlacement="EdgeLabelPlacement.Shift">
+        <ChartAxisMajorGridLines Width="0"></ChartAxisMajorGridLines>
+    </ChartPrimaryXAxis>
+    <ChartPrimaryYAxis LabelFormat="{value}" Minimum="0" Maximum="400" Interval="50">
+        <ChartAxisLineStyle Width="0"></ChartAxisLineStyle>
+        <ChartAxisMajorTickLines Width="0"></ChartAxisMajorTickLines>
+    </ChartPrimaryYAxis>
+    <ChartLegendSettings Visible="true"></ChartLegendSettings>
+    <ChartSeriesCollection>
+         @foreach(var serie in Componente.Series)
+                {
+                    
+                    <ChartSeries DataSource="@serie" XName="XValue" YName="YValue" Name="@Label"
+                        Type="ChartSeriesType.Line" Width="2">
+                        <ChartMarker>
+                            <ChartDataLabel Visible="true" Position="Syncfusion.Blazor.Charts.LabelPosition.Top">
+                                <ChartDataLabelFont FontWeight="600"></ChartDataLabelFont> 
+                            </ChartDataLabel>
+                        </ChartMarker>
+                    </ChartSeries>
+                }                
+       
+    </ChartSeriesCollection>
+</SfChart>

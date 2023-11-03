@@ -1,0 +1,44 @@
+@using Syncfusion.Blazor.Charts
+@using Syncfusion.Blazor.Layouts
+@using Syncfusion.Blazor.Navigations
+@using Syncfusion.Blazor.Cards
+@using Rampfy.BlazorDash.Shared.Models
+
+@code {
+    [Parameter]
+    public Componente componente;
+    private Theme Theme { get; set; }
+
+
+}
+<SfCard ID="@componente.Id_com">
+    <CardContent>
+        <div style="display:inline-flex;justify-content: space-evenly;align-items: center;width: 100%;">
+            <span>
+                @DateTime.Now.AddYears(-1).ToString("MMM - yyyy")
+            </span>
+            <span>
+                R$ 983.349,39
+            </span>
+        </div>
+    </CardContent>
+    <CardContent EnableSeparator="true">
+        <div style="display:inline-flex;justify-content: space-evenly;align-items: center;width: 100%;">
+            <span>
+                @DateTime.Now.ToString("MMM - yyyy")
+            </span>
+            <span>
+                R$ 1.183.349,40
+            </span>
+        </div>
+    </CardContent>
+    <CardContent EnableSeparator="true">
+    </CardContent>
+    <CardFooter>
+        <CardFooterContent>
+            <div class="total_perc">
+                +18.50%
+            </div>
+        </CardFooterContent>
+    </CardFooter>
+</SfCard>

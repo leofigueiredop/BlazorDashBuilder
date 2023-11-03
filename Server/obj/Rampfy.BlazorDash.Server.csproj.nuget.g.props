@@ -30,8 +30,14 @@
     <Import Project="$(NuGetPackageRoot)syncfusion.blazor.calendars/23.1.42/buildTransitive/Syncfusion.Blazor.Calendars.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor.calendars/23.1.42/buildTransitive/Syncfusion.Blazor.Calendars.props')" />
     <Import Project="$(NuGetPackageRoot)syncfusion.blazor.grid/23.1.42/buildTransitive/Syncfusion.Blazor.Grid.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor.grid/23.1.42/buildTransitive/Syncfusion.Blazor.Grid.props')" />
     <Import Project="$(NuGetPackageRoot)syncfusion.blazor.charts/23.1.42/buildTransitive/Syncfusion.Blazor.Charts.props" Condition="Exists('$(NuGetPackageRoot)syncfusion.blazor.charts/23.1.42/buildTransitive/Syncfusion.Blazor.Charts.props')" />
+    <Import Project="$(NuGetPackageRoot)redgate.smartassembly.msbuild/8.0.2.4779/build/RedGate.SmartAssembly.MSBuild.props" Condition="Exists('$(NuGetPackageRoot)redgate.smartassembly.msbuild/8.0.2.4779/build/RedGate.SmartAssembly.MSBuild.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore/7.0.13/buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore/7.0.13/buildTransitive/net6.0/Microsoft.EntityFrameworkCore.props')" />
+    <Import Project="$(NuGetPackageRoot)microsoft.entityframeworkcore.design/6.0.0/build/net6.0/Microsoft.EntityFrameworkCore.Design.props" Condition="Exists('$(NuGetPackageRoot)microsoft.entityframeworkcore.design/6.0.0/build/net6.0/Microsoft.EntityFrameworkCore.Design.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgRedGate_SmartAssembly_MSBuild Condition=" '$(PkgRedGate_SmartAssembly_MSBuild)' == '' ">/Users/leonardopickler/.nuget/packages/redgate.smartassembly.msbuild/8.0.2.4779</PkgRedGate_SmartAssembly_MSBuild>
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">/Users/leonardopickler/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.3</PkgMicrosoft_CodeAnalysis_Analyzers>
+    <PkgMicrosoft_CodeAnalysis_AnalyzerUtilities Condition=" '$(PkgMicrosoft_CodeAnalysis_AnalyzerUtilities)' == '' ">/Users/leonardopickler/.nuget/packages/microsoft.codeanalysis.analyzerutilities/3.3.0</PkgMicrosoft_CodeAnalysis_AnalyzerUtilities>
     <PkgMicrosoft_AspNetCore_Components_WebAssembly_Server Condition=" '$(PkgMicrosoft_AspNetCore_Components_WebAssembly_Server)' == '' ">/Users/leonardopickler/.nuget/packages/microsoft.aspnetcore.components.webassembly.server/7.0.2</PkgMicrosoft_AspNetCore_Components_WebAssembly_Server>
   </PropertyGroup>
 </Project>
